@@ -1,0 +1,11 @@
+C:\Users\Oscar\source\repos\PPO\miPrimerPrograma\miPrimerPrograma\bin\Debug\miPrimerPrograma.exe.config
+C:\Users\Oscar\source\repos\PPO\miPrimerPrograma\miPrimerPrograma\bin\Debug\miPrimerPrograma.exe
+C:\Users\Oscar\source\repos\PPO\miPrimerPrograma\miPrimerPrograma\bin\Debug\miPrimerPrograma.pdb
+C:\Users\Oscar\source\repos\PPO\miPrimerPrograma\miPrimerPrograma\bin\Debug\miPrimerPrograma.xml
+C:\Users\Oscar\source\repos\PPO\miPrimerPrograma\miPrimerPrograma\obj\Debug\miPrimerPrograma.vbproj.AssemblyReference.cache
+C:\Users\Oscar\source\repos\PPO\miPrimerPrograma\miPrimerPrograma\obj\Debug\miPrimerPrograma.Resources.resources
+C:\Users\Oscar\source\repos\PPO\miPrimerPrograma\miPrimerPrograma\obj\Debug\miPrimerPrograma.vbproj.GenerateResource.cache
+C:\Users\Oscar\source\repos\PPO\miPrimerPrograma\miPrimerPrograma\obj\Debug\miPrimerPrograma.vbproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\PPO\miPrimerPrograma\miPrimerPrograma\obj\Debug\miPrimerPrograma.exe
+C:\Users\Oscar\source\repos\PPO\miPrimerPrograma\miPrimerPrograma\obj\Debug\miPrimerPrograma.xml
+C:\Users\Oscar\source\repos\PPO\miPrimerPrograma\miPrimerPrograma\obj\Debug\miPrimerPrograma.pdb
